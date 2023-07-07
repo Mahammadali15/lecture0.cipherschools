@@ -1,0 +1,10 @@
+NEEDS FOR THE COURSE:
+1. Patience to code and follow through the course
+2. An IDE where you can code patiently
+3. Googling skills
+4. Get good in c++ so that you can finally understand those memes
+
+TOOLS WE WILL BE USING:
+1.VS code
+2.one note
+
